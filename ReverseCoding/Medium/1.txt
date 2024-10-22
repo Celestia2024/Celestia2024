@@ -1,0 +1,2 @@
+Write a C program to check if a given number is Armstrong or not.
+Take input from user.

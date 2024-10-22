@@ -1,0 +1,5 @@
+Write a C program to print pattern:
+1
+23
+456
+78910

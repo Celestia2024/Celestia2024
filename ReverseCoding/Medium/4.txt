@@ -1,0 +1,2 @@
+Write to count the occurence of a given integer in an array.
+Take input from the user.

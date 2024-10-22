@@ -1,0 +1,2 @@
+Write a program that calculates the area of a Rectangle. 
+Take length and breadth as input.

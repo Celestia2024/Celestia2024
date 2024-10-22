@@ -1,0 +1,2 @@
+Write a C program to find the length of string without using string function.
+Take input from the user.

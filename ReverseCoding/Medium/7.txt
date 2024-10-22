@@ -1,0 +1,2 @@
+Write a C program to print the number of vowels from a string.
+Take input from the user.

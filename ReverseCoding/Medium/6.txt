@@ -1,0 +1,2 @@
+Write a C program to find largest 2 numbers from 3 numbers.
+Take input from the user.

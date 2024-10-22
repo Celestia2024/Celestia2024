@@ -1,0 +1,2 @@
+Write a C program to print the sum of the first n natural numbers.
+Take value of n as input 

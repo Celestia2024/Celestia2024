@@ -1,0 +1,2 @@
+Write a C program to implement a simple calculator to calculate multiplication and division.
+Take input from the user.

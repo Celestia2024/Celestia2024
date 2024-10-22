@@ -1,0 +1,2 @@
+Write a C program to check whether number is prime or not.
+Take input from user.

@@ -1,0 +1,2 @@
+Write a C program to find sum of the digits of a given number.
+Take the number a s input.

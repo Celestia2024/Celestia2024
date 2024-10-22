@@ -1,0 +1,2 @@
+Write a C program to swap two vraiables without using temp.
+No need to take input from user.

@@ -1,0 +1,3 @@
+Write a C program to generate and print n term from fibonacci series.
+Take value of 'n' as input 
+
