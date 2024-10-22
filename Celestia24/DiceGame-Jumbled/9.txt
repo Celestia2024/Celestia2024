@@ -1,0 +1,17 @@
+<stdio.h> #include
+{ void printDivisors(int n)
+i++) <= { 1; i = (int i n; for
+== % 0) i { (n if
+printf("%d ", i);
+}
+}
+}
+main() { int
+int num ;
+Number (" : ") ; Enter printf
+scanf( " &num %d ); ",
+divisors are: of ",num); %d printf("The
+printDivisors(num);
+0; return
+}
+

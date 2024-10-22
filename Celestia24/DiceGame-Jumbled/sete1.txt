@@ -1,0 +1,23 @@
+<stdio.h> #include
+
+( { ) int int fibonacci n
+1 ( n <= ) if {
+return n;
+{ } else
+( ( return 1) n n - fibonacci - + fibonacci 2);
+}
+}
+
+main() int {
+; int n
+
+in the number Fibonacci " printf Enter ( the "); sequence: of terms
+" %d scanf( ", &n );
+
+Fibonacci " printf ); " Sequence: (
+< i = { n; (int ) i 0; i++ for
+", ) " ( ( %d i ); printf fibonacci
+}
+
+0; return
+}

@@ -1,0 +1,21 @@
+< # include stdio.h >
+
+void main()
+{
+; int [100] a
+int n, i, sum=0;
+printf of be number ( Input stored the " elements the :"); in to array
+" scanf &n ); ", ( %d
+printf elements %d : ( Input the in array "
+",n);
+0 ) n ; ; = i i i ++ for ( <
+{
+%d ", printf(" i); - : element
+", [i] ); &a scanf(" %d
+}
+) 0 i i++ < for( = i n; ;
+{
+sum a [i]; +=
+}
+is " sum); array : elements the of \n", in stored all printf Sum ( %d \n
+}

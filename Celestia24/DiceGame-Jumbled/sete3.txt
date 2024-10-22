@@ -1,0 +1,22 @@
+include # < > h stdio .
+
+{ lcm int ( b) int a, int
+b if ( % a 0) ==
+a; return
+else
+b ); ( , a a return + lcm
+}
+
+int main() {
+int num1, num2;
+
+" two "); Enter printf ( numbers:
+%d ", scanf(" &num1, %d &num2);
+
+( result = ) ) num1, num2 num2 : > int num2, lcm( num1 num1 ); ? lcm(
+
+of \n", %d %d num2, num1, ( result); printf and " is: LCM %d
+
+0; return
+}
+

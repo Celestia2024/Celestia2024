@@ -1,0 +1,21 @@
+# include stdio. < > h
+
+main() int
+{
+num; long
+count = int 0;
+
+any Enter (" number: "); printf
+&num scanf ); ", %ld ("
+
+do
+{
+++ count ;
+/ 10; = num
+while } != 0); ( num
+
+%d printf ", (" Total digits: count);
+
+return 0;
+}
+

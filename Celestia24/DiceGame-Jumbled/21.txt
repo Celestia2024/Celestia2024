@@ -1,0 +1,18 @@
+include stdio # h > < .
+string.h include< > #
+main ) int { (
+
+; [25] char str
+i int ;
+(" the ; string: printf Enter ")
+str) ", ; %s scanf("
+
+); ( ) <= i str strlen i=0; for( i++
+{
+&& 90) if( 65 str[i] <= >= str[i]
+32; [i] str [i] + str =
+}
+Lower %s printf (" String is: str); ", Case
+0; return
+}
+

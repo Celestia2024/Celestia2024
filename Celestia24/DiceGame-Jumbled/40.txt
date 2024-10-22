@@ -1,0 +1,22 @@
+> stdio.h < include #
+
+
+n countMultiples int ) int (
+{
+
+i 1 (int ) i n; i ++ ; <= for = {
+% { ) if i 0 ( 3 ==
+printf %d " (
+" ) ; i ,
+}
+}
+}
+
+main() int
+{
+n ; 25 int =
+
+countMultiples ) ( n ;
+
+0; return
+}

@@ -1,0 +1,25 @@
+<stdio.h> #include
+
+int main()
+{
+n, = m int 1;
+") Enter number the ; of printf(" rows
+" & scanf( ); " n , %d
+) = i > n; = i -- for(int i 1;
+{
+= j++) 1; 1; < for( j - int i = j
+{
+"); printf("
+}
+for( k = = 1; m; < k int k++)
+{
+|| k ) = 1 m = || = k m = = = if( n
+); " * printf("
+else
+); printf(" "
+}
+printf("\n");
+m + ; +
+}
+return 0;
+}

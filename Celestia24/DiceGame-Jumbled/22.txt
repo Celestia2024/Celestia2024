@@ -1,0 +1,16 @@
+< h . include > stdio #
+
+main() int
+{
+[50], j; str1 i, char [50] str2 ,
+Enter ( string: "\n "); printf first
+
+str1); " " %s ( , scanf
+
+\n string: Enter " second printf "); (
+
+( ); %s scanf str2 ", "
+
+= for( [i] str1 0 i ; ; != '\0' ++i);
+
+'

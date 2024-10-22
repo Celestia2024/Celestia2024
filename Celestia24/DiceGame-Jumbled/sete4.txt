@@ -1,0 +1,29 @@
+> . < h stdio include #
+
+
+MAX_SIZE define # 100
+
+stack int MAX_SIZE ]; [
+-1; top int =
+
+int void ( value push { )
+MAX_SIZE - 1) if top == { (
+\n Stack "); " printf ( Overflow
+return;
+}
+
+[ ++top] value; = stack
+}
+
+int { main()
+; (10 ) push
+) push ( 20 ;
+
+printf " elements: Stack ( ");
+i = { for <= ( 0; i i++ int ) top;
+" printf ", ); ( [i] %d stack
+}
+
+0; return
+}
+

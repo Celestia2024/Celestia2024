@@ -1,0 +1,19 @@
+stdio.h < #include >
+int main()
+{
+= 0; 0,y int = x
+= int unsigned 0; squareSide
+Square "); Side of printf("Enter = a
+", & (" %u scanf squareSide);
+loop //outer
+0 ; (x for ; = x< ) squareSide ++x
+{
+loop //inner
+; 0 for(y y< = ; squareSide ++y)
+{
+printf * "); ("
+}
+"\n"); printf (
+}
+0; return
+}

@@ -1,0 +1,22 @@
+# h stdio. include > <
+
+int num) countDigits ( { int
+== { ) num if ( 0
+0; return
+}
+
+/ countDigits return num + ); 10 1 (
+}
+
+{ main() int
+number; int
+
+" Enter a " number: ); printf (
+%d scanf ", ( ); " &number
+
+number int = countDigits ); ( digitCount
+
+digits in of Number printf %d digitCount); ( is: %d ", number, " \n
+
+return 0;
+}

@@ -1,0 +1,3 @@
+Write a C program to check if a given number ends with 0
+Sample input: 15210
+Output: True

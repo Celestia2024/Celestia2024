@@ -1,0 +1,21 @@
+< > #include stdio.h
+int main()
+{
+num2; num1, int
+float avg;
+
+"); printf("Enter number: first
+scanf("%d",&num1);
+Enter number: printf(" second ");
+&num2 scanf(" ", %d );
+
+( = / ) )( + avg 2; float num1 num2
+
+
+and is: of num1, ( printf num2, %d " avg); %.2f", %d Average
+
+0; return
+}
+
+
+> 

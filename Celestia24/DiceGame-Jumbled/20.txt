@@ -1,0 +1,16 @@
+. > h # stdio include <
+. h string #include < >
+int main()
+{
+; str [25] char
+; int i
+" string: Enter ; ) ( printf the "
+str %s (" scanf ; ) ",
+
+; ); < { for( ( = strlen i str i ) = 0 i++
+&& if( ) 65 90 str str <= >= [i] [i]
+[i] str = str [i] 32; +
+}
+", %s is: \n printf (" Case str); String Lower
+0; return
+}

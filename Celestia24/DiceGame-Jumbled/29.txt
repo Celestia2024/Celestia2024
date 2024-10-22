@@ -1,0 +1,15 @@
+include stdio.h # < >
+# < conio.h > include
+main() void
+{
+year; month, int day,
+clrscr ();
+") (" printf your enter days: ; please
+", &day); (" scanf %d
+year = 365; / day
+day 365; = day %
+month / day = 30 ;
+= % day day 30 ;
+month, (“ day year, %d %d ) year printf day %d month ”, ;
+getch();
+}

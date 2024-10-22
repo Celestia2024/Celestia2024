@@ -1,0 +1,3 @@
+Write a C program that calculated the volume of 3 spheres.
+Take the radius of sphere as input 
+V= 4/3* pi * (r^3)

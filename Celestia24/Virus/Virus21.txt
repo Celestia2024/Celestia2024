@@ -1,0 +1,2 @@
+Write a C program to check if a given number is divisible by another given number
+Print the remainder if not divisible 

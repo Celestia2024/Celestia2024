@@ -1,0 +1,26 @@
+# include > < stdio.h
+
+int num ) checkEven( int
+{
+% num == ( 0 2 ) if
+return 1;
+else
+return 0;
+}
+
+main() int
+{
+i, n; int
+
+( " of Enter printf "); N: value the
+%d (" scanf &n); ",
+
+) { = ( n; i i i++ 1; for <=
+( i) ) if checkEven(
+(" i); -", ] [Even %d printf
+else
+] ("%d i); ", printf - [Odd
+}
+
+return 0;
+}

@@ -1,0 +1,33 @@
+h < stdio . # include >
+
+exponent) base, double power( int { int
+) ( == 0 exponent if
+{
+1; return
+( else } 0 exponent if > ) {
+* base return (base,exponent-1) ; power
+else { }
+
+1.0 * return ( ); base power (base,-exponent-1) /
+}
+}
+
+main() { int
+int base, exponent;
+
+" printf the Enter "); ( base:
+%d &base); " ", ( scanf
+
+printf "); the Enter exponent: " (
+%d ( &exponent); " ", scanf
+
+double result = power(base, exponent);
+
+of ( printf " \n the %d %.f ", base, exponent, %d result); power to is:
+
+return 0;
+}
+
+
+
+> 
